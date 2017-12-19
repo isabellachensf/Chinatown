@@ -47,6 +47,7 @@ ul {
 li {
     display: inline;
     padding: 15px;
+    font-weight: 800;
 }
 li a {
     color: #ff00ff;
